@@ -1,9 +1,9 @@
 rails new example
 
-    $ rails new rails_new_example
+    $ rails new new_yarn_example --no-skip-yarn
 
 skip yarn example
 
-    $ rails new --slip-yarn skip_yarn_example
+    $ rails new skip_yarn_example --webpack --skip-yarn
 
 rails verstion 5.1.6
